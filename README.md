@@ -1,1 +1,1 @@
-# my-ec2-setup
+# aws-ec2-commands
